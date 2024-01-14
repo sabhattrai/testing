@@ -1,2 +1,2 @@
-this is for testing purpose
+this is for testing purposea
 this is adding peoplr
